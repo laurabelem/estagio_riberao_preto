@@ -6,3 +6,5 @@ while K < INDICE:
     K = K + 1
     SOMA = SOMA + K
     print(SOMA)
+
+# O próximo número será 77
